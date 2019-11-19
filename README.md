@@ -1,13 +1,11 @@
 # Name
 Zachary Sadovszky
-ZJS.Portfolio 
+zsadov1.github.io
 
 ## Description
 
-This is my first repo for the first home work assignment, for the University of Richmond coding boot camp.
-It is meant to be a simple static page.  A basic html-5 website with a CSS style-sheet
-
+This is my Second repo.  I'm attempting to host my portfolio site using github pages.
 
 ## Usage
 
-This is going to be used to start my journey into web development.  
+This is going to be my first live website. 
